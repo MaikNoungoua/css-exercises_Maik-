@@ -11,4 +11,5 @@ All you need to do is center the red div inside the blue container.
 Yes the box was centered 
 - Did you _only_ use flexbox to center it?
 No, I used margin but quickly realized when inspecting the element in chrome why it was not practical. 
-    
+So I ended up making a new commit with a solution that reflected what was expected by TOP.
+
