@@ -1,0 +1,27 @@
+p,div {
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    
+}
+
+p {
+    background-color:  rgb(255, 134, 223);
+}
+
+.number#two {
+    font-size: xxx-large;
+    color: blue;
+}
+
+.number#three {
+    font-size: 30px;
+}
+
+.number#four {
+    font-weight: 600;
+    font-size: x-large;
+    background-color: rgb(137, 235, 122);
+}
+
+.number#five {
+    font-size: 20px;
+}
